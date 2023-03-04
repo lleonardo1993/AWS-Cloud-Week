@@ -32,3 +32,12 @@
 
 - ```wscat -c url_de_conexao_do_websocket```
 - Exemplo de chamada ```{"action":"sendPublic", "message":"Hello World!"}```
+
+### Utilizado Amazon API Gateway
+
+É um serviço de gerenciamento de APIs totalmente gerenciado que torna mais fácil para os desenvolvedores criar, publicar,
+manter, monitorar e proteger APIs RESTful e WebSocket em qualquer escala.
+
+### Utilizado AWS Lambda
+
+O AWS Lambda é um serviço de computação sem servidor e orientado a eventos que permite executar código para praticamente qualquer tipo de aplicação ou serviço de backend sem provisionar ou gerenciar servidores. Você pode acionar o Lambda a partir de mais de 200 serviços da AWS e aplicações de software como serviço (SaaS) e pagar apenas pelo que usar.
