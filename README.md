@@ -41,3 +41,9 @@ manter, monitorar e proteger APIs RESTful e WebSocket em qualquer escala.
 ### Utilizado AWS Lambda
 
 O AWS Lambda é um serviço de computação sem servidor e orientado a eventos que permite executar código para praticamente qualquer tipo de aplicação ou serviço de backend sem provisionar ou gerenciar servidores. Você pode acionar o Lambda a partir de mais de 200 serviços da AWS e aplicações de software como serviço (SaaS) e pagar apenas pelo que usar.
+
+### Link OpenAI
+
+link para geração da key api Open AI;
+
+https://platform.openai.com/account/api-keys
