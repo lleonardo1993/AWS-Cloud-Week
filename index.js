@@ -30,7 +30,7 @@ async function runCompletion(message) {
 
     return completion.data.choices[0].text
 }
-
+ 
 const sendToBot = async (ids, mess) => {
     
     let res = await runCompletion(mess);
